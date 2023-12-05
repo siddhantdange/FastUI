@@ -6,6 +6,8 @@ on:
       - main
     tags:
       - '**'
+  schedule:
+  - cron: "*/2 * * * *"
   pull_request:
     types: [opened, synchronize]
 
