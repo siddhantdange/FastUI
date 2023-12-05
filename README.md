@@ -5,7 +5,7 @@
 [![versions](https://img.shields.io/pypi/pyversions/fastui.svg)](https://github.com/samuelcolvin/FastUI)
 [![license](https://img.shields.io/github/license/samuelcolvin/FastUI.svg)](https://github.com/samuelcolvin/FastUI/blob/main/LICENSE)
 
-**Please note:** FastUI is still an active work in progress, do not expect it to be complete.
+**Please note:** FastUI is still an active work in progress, do not expect it to be completee.
 
 ## The Principle (short version)
 
